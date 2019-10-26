@@ -1002,3 +1002,8 @@
 - Place: Nagda, India
 - Bio: Curious Learner, Programmer, worked in 7+ Languages.
 - GitHub: [aamirv1](https://github.com/aamirv1)
+
+#### Name: [Feysal](https://github.com/feysalikbal)
+- Place: Oklahoma City, Oklahoma
+- Bio: Student
+- GitHub: [feysal](https://github.com/feysalikbal)
